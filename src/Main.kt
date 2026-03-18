@@ -25,6 +25,8 @@ class Question {
 
         //정답
         return list.filter { it % 2 == 0 }
+
+        //asdf
     }
 
     fun question2(): String {
