@@ -9,6 +9,7 @@ fun main() {
 }
 
 class Question {
+    //김관혁입니다.
     fun question1(): List<Int> {
         /*
         문제 1: 리스트에서 짝수만 필터링하기
