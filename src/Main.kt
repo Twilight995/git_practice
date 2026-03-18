@@ -92,6 +92,11 @@ class Question {
         }
     }
 
+
+
+
+
+
     //asddsasdasda
     fun question6(): List<String> {
         /*
