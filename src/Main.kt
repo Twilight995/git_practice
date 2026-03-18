@@ -91,12 +91,6 @@ class Question {
             it.uppercase()
         }
     }
-
-
-
-
-
-
     //asddsasdasda
     fun question6(): List<String> {
         /*
