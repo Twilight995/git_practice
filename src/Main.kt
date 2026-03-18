@@ -90,6 +90,7 @@ class Question {
         }
     }
 
+    //asddsasdasda
     fun question6(): List<String> {
         /*
         문제 6: 복잡한 조건의 데이터 처리
@@ -100,7 +101,6 @@ class Question {
                 listOf(Product("Kotlin", 100), Product("Java", 80), Product("C", 60)),
                 true
             ),
-
             Order(
                 listOf(Product("JS", 120), Product("Python", 90), Product("C++", 110)),
                 false
