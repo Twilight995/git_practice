@@ -7,7 +7,7 @@ fun main() {
     question.question5()
     question.question6()
 }
-
+// 메롱
 class Question {
     fun question1(): List<Int> {
         /*
